@@ -1,1 +1,2 @@
 This is the repository for my first Ruby on Rails application (an alpha-blog app)
+https://alphablogharri.herokuapp.com <- Check it out!
