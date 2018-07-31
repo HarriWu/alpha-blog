@@ -17,8 +17,8 @@
           <%= truncate(article.description, length: 100) %>
           <div class="article-meta-details">
             <small>Created by : <%= article.user.username if article.user %>, 
-                    <%= time_ago_in_words(article.created_at) %> ago,
-                     %> ago
+                    <%= time_ago_in_words(article.created_at) %> ago
+                    
             </small>
           </div>
         </div>
