@@ -1,2 +1,1 @@
-This is the repository for my first Ruby on Rails application (an alpha-blog app)
-https://alphablogharri.herokuapp.com <- Check it out!
+Created a blog website where users are able to create an account and post their blogs. Website link: https://alphablogharri.herokuapp.com
